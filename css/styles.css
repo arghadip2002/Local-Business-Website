@@ -1,0 +1,148 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+/* navigation bar */
+.navbar-brand{
+    font-family: 'Inconsolata', monospace;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.navbar-brand{
+    position: relative;
+    left: 7%;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'montserrat-thin 100';
+}
+
+/* title section */
+#title{
+    background-color: #ff4c68;
+}
+.container-fluid{
+    padding: 3% 7% 3% 7%;
+    text-align: center;
+}
+.main-title{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.2;
+    color: white;
+    padding-top: 10%;
+}
+.online-shop{
+    margin: 5%;
+}
+
+/* feature section */
+#features{
+    padding: 5% 10%;
+    text-align: center;
+    background-color: white;
+}
+.icon{
+    padding-bottom: 3%;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+@media (max-width:900px){
+    .img02{
+        width: 90%;
+    }
+}
+
+/* testimonial section */
+#testimonials{
+    background-color: #ff4c68;
+    padding: 5% 7% 10%;
+    text-align: center;
+}
+.carousel-item{
+    padding: 0% 15%;
+    color: white;
+}
+.img-member{
+    padding-bottom: 5%;
+}
+.members{
+    padding-bottom: 3%;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 900;
+    color: white;
+}
+
+/* collaboration section */
+#collaboration{
+    padding: 5%;
+    text-align: center;
+}
+.collaboration-logo{
+    width: 30%;
+}
+.collaboration-heading{
+    font-family: 'Inconsolata', monospace;
+    font-weight: 900;
+    padding-bottom: 5%;
+}
+
+/* gallery section */
+#gallery{
+    text-align: center;
+    background-color: #3A3934;
+    padding: 7%;
+}
+.div-card{
+    padding: 3%;
+}
+.card{
+    height: 100%;
+}
+.sell-heading{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+.card-header{
+    font-family: 'Inconsolata', monospace;
+    font-weight: 900;
+}
+
+/* cta section */
+#cta{
+    padding: 5% 10%;
+    background-color: white;
+    text-align: center;
+}
+.cta-heading{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* footer */
+#footer{
+    background-color: #3A3934;
+    text-align: center;
+    color: white;
+}
+.p-footer{
+    margin-bottom: 0;
+}
+.footer-link{
+    color: white;
+    padding: 3%;
+}
+.footer-link:hover{
+    color: yellow;
+}
+.div-link{
+    padding-top: 7%;
+    padding-bottom: 2%;
+}
+.div-last{
+    padding-bottom: 7%;
+}
