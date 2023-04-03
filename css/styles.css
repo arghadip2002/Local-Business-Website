@@ -68,7 +68,11 @@ body{
     color: white;
 }
 .img-member{
-    padding-bottom: 5%;
+    border: solid 2px  white;
+    border-radius: 100%;
+}
+.img-name{
+    padding-top: 5%;
 }
 .members{
     padding-bottom: 3%;

@@ -1,0 +1,30 @@
+body{
+    background-color: brown;
+}
+
+/* navigation bar */
+.navbar-brand{
+    font-family: 'Inconsolata', monospace;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.navbar-brand{
+    position: relative;
+    left: 7%;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'montserrat-thin 100';
+}
+
+/* contacts-div section */
+.div-contacts{
+    text-align: center;
+    margin: 10%;
+    border: 3px solid white;
+    color: white;
+    padding: 5%;
+}
