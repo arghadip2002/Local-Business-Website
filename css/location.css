@@ -24,6 +24,12 @@
 .earth{
     padding: 5%;
 }
+@media (max-width:900px){
+    .map{
+        width: 350px;
+        height: 300px;
+    }
+}
 .map{
     padding: 3%;
     border: solid 2px white;
