@@ -4,4 +4,4 @@ This a website for a local Business (Name of the Business : Bholanach Readymade 
 
 Technologies Used : HTML5,CSS
 
-Check the website : [Local Shop Business Website(BRC - Bholanath Readymade Center)]([https://arghadip2002.github.io/BRC-website/])
+Check the website : [Local Shop Business Website(BRC - Bholanath Readymade Center)](https://arghadip2002.github.io/BRC-website/)
